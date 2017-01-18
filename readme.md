@@ -1,5 +1,9 @@
 # Training Git - Working with Remote Repository
 
+- semalam, semalam. harini, harini.
+- semoga harini lebih baik dari semalam,
+- insyaallah.
+
 test test 123
 test test 321
 
